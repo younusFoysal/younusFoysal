@@ -19,7 +19,7 @@
 </p>
 <picture> <img align="right" src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: I am a `Student` at [Port City International University](http://younusfoysal@epizy.com).
 - :technologist: I love using Software as a solution for every `Problem`.
