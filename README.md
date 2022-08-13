@@ -20,7 +20,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en).
+- :school: I am a `Student` at [Port City International University](http://younusfoysal@epizy.com).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science Engineering`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1qV3dmfEd03mDznUGlD3H3sn999F2V6l4?usp=sharing).
