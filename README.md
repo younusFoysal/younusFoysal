@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Foysal Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1CFF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Application+Security+Researcher;Computer+Science+and+Engineering+Student;Competitive+Programmer;Expert+on+Graphics+Design;PHP+and+Laravel+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1CFF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Application+Security+Researcher;Computer+Science+and+Engineering+Student;Competitive+Programmer;Expert+on+Graphics+Design;PHP+and+Laravel+Developer;Python+Developer;Always+learning+new+things"></a>
 </p>
 
 
@@ -21,7 +21,7 @@
 
 <br>
 
-- :school: I am a `Student` at [Port City International University](http://younusfoysal@epizy.com).
+- :school: I am a `Student` at [Port City International University](http://younusfoysal.epizy.com).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science Engineering`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1qV3dmfEd03mDznUGlD3H3sn999F2V6l4?usp=sharing).
