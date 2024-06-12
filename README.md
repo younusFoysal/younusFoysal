@@ -21,7 +21,7 @@
 
 <br>
 
-- :school: I am a `Student` at [Port City International University](http://younusfoysal.epizy.com).
+- :school: I am a `Student` at [Port City International University](https://younus-foysal.web.app/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science Engineering`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/younusfoysal/).
@@ -30,16 +30,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
-<p align="center">
-  <a href="https://codeforces.com/profile/0xfoysal"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/0xfoysal/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/foysalahmed"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/younusfoysal"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/FOTIB0W63C2M"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/9229fe1d48ed4a9cf310e61dfb526c429362305" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
 
 ## <picture> <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
@@ -129,23 +120,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
  
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
-
  ### <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
@@ -154,18 +129,12 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
 
 <br> 
 
 ---
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 ## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
@@ -191,13 +160,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-
-<a href="https://github.com/younusFoysal"><img alt="younusFoysal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=younusFoysal&custom_title=younusFoysal's%20Contribution%20Graph&theme=react-dark" /></a>
- 
-</details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
@@ -207,29 +169,3 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-    	<a href="https://github.com/younusFoysal/CSE121122">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=younusFoysal&repo=CSE121122&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/younusFoysal/wpscan">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=younusFoysal&repo=wpscan&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/younusFoysal/mbf-1">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=younusFoysal&repo=mbf-1&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-
-</details>
-
-</br></br>
-	
-## Just a Snake 🐍 Eating away my Contributions...😭
-	
-<p align = "center">
-	<img src = "https://github.com/younusFoysal/younusFoysal/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
