@@ -2,9 +2,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1CFF00&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Application+Security+Researcher;Computer+Science+and+Engineering+Student;Competitive+Programmer;Expert+on+Graphics+Design;PHP+and+Laravel+Developer;Python+Developer;Always+learning+new+things"></a>
 </p>
-<p align="center">
-  <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/banner.gif" alt="Hi, I'm Younus Foysal 👋 I'm a Full-Stack developer 🚀 I ❤️ Coding!">
-</p>
+<div style="text-align:center;">
+  <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/banner.gif" alt="Hi, I'm Younus Foysal 👋 I'm a Full-Stack developer 🚀 I ❤️ Coding!" style="width:100%;"/>
+</div>
+
 
 
 <br>
