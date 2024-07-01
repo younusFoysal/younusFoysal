@@ -7,9 +7,6 @@
   <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/banner.gif" alt="Hi, I'm Younus Foysal 👋 I'm a Full-Stack developer 🚀 I ❤️ Coding!">
 </p>
 <br>
-
-
-
 	
 ## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/about_me.gif?raw=true" width = 50px>  </picture> About me
 
