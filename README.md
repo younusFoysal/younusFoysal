@@ -4,7 +4,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/banner.gif" alt="Hi, I'm Younus Foysal 👋 I'm a Full-Stack developer 🚀 I ❤️ Coding!">
+  <img src="https://github.com/younusFoysal/younusFoysal/blob/main/Images/bannerfullw.gif" alt="Hi, I'm Younus Foysal 👋 I'm a Full-Stack developer 🚀 I ❤️ Coding!">
 </p>
 <br>
 	
