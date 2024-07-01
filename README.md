@@ -98,7 +98,7 @@
 
 ## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<h3> 🔥 Streak Stats</h3>
 
 ----	
 
@@ -107,9 +107,9 @@
 
 </p>
 
-</details>
+
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<h3>💻 GitHub Profile Stats</h3>
 
 ----
 	
@@ -121,14 +121,14 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+<h3> :trophy: Git profile Trophies </h3>
 
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=younusFoysal&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="younusFoysal" /></a> </p>
 	
-</details>
+
 	
