@@ -94,7 +94,7 @@
 
 ## <picture> <img src = "https://github.com/younusFoysal/younusFoysal/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<h3> 🔥 Streak Stats</h3>
+<h3> 🔥 Daily Streak</h3>
 
 ----	
 
