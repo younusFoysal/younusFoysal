@@ -23,7 +23,7 @@
 - :school: I am a `Student` at [Port City International University](https://younus-foysal.web.app/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science Engineering`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/younusfoysal/).
+- :thinking: I’m currently open for projects, this is [MY RESUME](https://www.linkedin.com/in/younusfoysal/).
 - :nerd_face: Always `learning new things`.
 
 <br>
