@@ -20,11 +20,12 @@
 
 <br>
 
-- :school: I am a `Student` at [Port City International University](https://younus-foysal.web.app/).
+- 💻: I am a `Software Engineer` at [RemoteIntegrity LLC](https://remoteintegrity.com/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science Engineering`.
+- :student: I’ve studied `Computer Science Engineering`.
 - :thinking: I’m currently open for projects, this is [MY RESUME](https://www.linkedin.com/in/younusfoysal/).
 - :nerd_face: Always `learning new things`.
+- :link: Want to know more about me? take a look [Portfolio](https://ynsfoysal.vercel.app/).
 
 <br>
 
